@@ -7,4 +7,8 @@ Writing in this for the first time
 <br>
 <i>Writing this in italics</i>
 <br>
+formula for water is H<SUB>2</SUB>0
+<br>
+formula for (a<sup>2</sup>-b<sup>2</sup>)=(a-b)(a+b)
+<br>
 <s>Writing this in strike through line</s>
