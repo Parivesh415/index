@@ -12,3 +12,7 @@ formula for water is H<SUB>2</SUB>0
 formula for (a<sup>2</sup>-b<sup>2</sup>)=(a-b)(a+b)
 <br>
 <s>Writing this in strike through line</s>
+<br>
+<hr>
+this tag creats a line "tag hr"
+<hr>
