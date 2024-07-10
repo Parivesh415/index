@@ -68,7 +68,7 @@ this tag is used to break a like tag(br)
     <th>Pawan </th>
     <th>Btech AIML</th>
     <th>J</th>
-    <th>Pahadi</th>
+    <th>Uttarakhand</th>
   </tr>
 
   <tr>
@@ -91,4 +91,60 @@ this tag is used to break a like tag(br)
     <th>J</th>
     <th>jharkhand</th>
   </tr>
+  
+  <tr>
+    <th>Shreya </th>
+    <th>Btech AIML</th>
+    <th>A</th>
+    <th>Chennai</th>
+    
+  <tr>
+    <th>Lalit </th>
+    <th>Btech </th>
+    <th> </th>
+    <th>Harayana</th>
+  </tr>
+  
+  <tr>
+    <th>Neeraj </th>
+    <th>Btech </th>
+    <th>D</th>
+    <th>muzaffarpur</th>
+  </tr>
+  
+  <tr>
+    <th>Nitin </th>
+    <th>Btech </th>
+    <th>D</th>
+    <th>Rajasthan</th>
+  </tr>
+  
+  <tr>
+    <th>Nitesh </th>
+    <th>Btech </th>
+    <th>D</th>
+    <th>Rajasthan</th>
+  </tr>
+
+  <tr>
+    <th>Shivank </th>
+    <th>Btech AIML</th>
+    <th>J</th>
+    <th>muzaffarpur</th>
+  </tr>
+
+  <tr>
+    <th>Arif </th>
+    <th>Btech CSCQ</th>
+    <th>C</th>
+    <th>Assam</th>
+  </tr>
+  
+  <tr>
+    <th>Pawan </th>
+    <th>Btech AIML</th>
+    <th>J</th>
+    <th>Uttarakhand</th>
+  </tr>
+  
   </table>
